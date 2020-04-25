@@ -172,3 +172,14 @@ footer {
   width: 20%;
   padding: 4%;
 }
+
+.icon-text-text {
+  float: left;
+  width: 95%;
+  padding: 4% 4% 2% 0;
+  font-size:
+}
+
+.footer-nav {
+  text-align: right;
+}
