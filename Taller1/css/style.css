@@ -162,3 +162,13 @@ footer {
   overflow: auto;
 }
 
+.icon-text {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.icon-text-icon {
+  float: left;
+  width: 20%;
+  padding: 4%;
+}
