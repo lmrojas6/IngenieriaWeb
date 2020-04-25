@@ -148,3 +148,17 @@ a:hover {
   padding: 1%;
 }
 
+
+/* ONE THIRD PADDING*/
+.one-third-padding {
+  width: 15.8%;
+  float: left;
+  margin: 2% 2%;
+}
+
+footer {
+  background: #2c3e50;
+  width: 100%;
+  overflow: auto;
+}
+
