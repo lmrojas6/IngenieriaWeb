@@ -78,3 +78,12 @@ nav {
   float: right;
   padding: 25px 20px 0px 0px;
 }
+
+#menu-icon {
+  display: none;
+  font-size: 50px;
+}
+
+ul {
+  list-style: none;
+}
