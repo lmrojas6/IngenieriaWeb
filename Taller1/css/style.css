@@ -273,3 +273,19 @@ footer.second p, .second a {
     float: left;
     width: 100%;
   }
+
+
+  .icon-wrap {
+    height: 80px;
+    width: 80px;
+    margin-top: 3%;
+  }
+
+  .icon-wrap i {
+    font-size: 250%;
+    padding-top: 27%;
+  }
+
+  .sidebar {
+    width: 100%;
+  }
