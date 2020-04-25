@@ -97,3 +97,10 @@ nav ul li {
 nav ul li a {
   color: #6991AC;
 }
+.current {
+  color: #3F5767;
+}
+
+a:hover {
+  color: #a5bdcd;
+}
