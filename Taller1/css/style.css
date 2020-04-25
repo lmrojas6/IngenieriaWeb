@@ -30,4 +30,23 @@ h3 {
   padding: 0;
 }
 
+a {
+  color: #524c56;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #c3d7df;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  margin-bottom: -4px;
+}
+
 
