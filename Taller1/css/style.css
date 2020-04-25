@@ -239,3 +239,16 @@ footer.second p, .second a {
     height: 80px;
     position: relative;
   }
+
+
+  header #logo {
+    margin: 15px 0 20px -25px;
+  }
+
+  #menu-icon {
+    display: inline-block;
+  }
+
+  nav:hover ul {
+    display: block;
+  }
