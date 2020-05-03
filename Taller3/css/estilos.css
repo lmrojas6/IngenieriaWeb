@@ -183,7 +183,7 @@ section.galeriaPrinicpal{
     height: 500px;
 }
 
-{aside.sponsor{
+aside.sponsor{
     text-align: center;
     background: #ffffff;
 }
@@ -199,4 +199,24 @@ section.sponsorItem{
 section.sponsorItem{
     background: #ffffff;
     padding: 20px;
+}
+
+.sponsorItem div img{
+    width: 200px;
+    height: 220px;
+    object-fit: cover;
+    padding: 0em 2.5em;     
+}
+
+.sponsorA .titulo{
+    margin-bottom: 10px;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.sponsorA .titulo a{
+    text-decoration: none;
+    padding-top: 10px;
+    color: rgb(47, 83, 10);
 }
