@@ -237,3 +237,28 @@ footer.piePagina{
 footer.piePagina h5{
     padding: 1em 2em;
 }
+
+.icon-text-text {
+  float: left;
+  width: 100%;
+}
+
+.social {
+  list-style-type: none;
+  text-align: center;
+}
+
+.social li {
+  display: inline;
+}
+
+.social i {
+  font-size: 350%;
+  margin: 1%;
+  padding: 5%;
+  color: white;
+}
+
+.social i:hover {
+  color: black;
+}
