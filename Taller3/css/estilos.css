@@ -220,3 +220,20 @@ section.sponsorItem{
     padding-top: 10px;
     color: rgb(47, 83, 10);
 }
+
+.sponsorA .extracto{
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    color: #868686;
+}
+
+footer.piePagina{
+    text-align: right;
+    background: #c2bebc;
+}
+
+footer.piePagina h5{
+    padding: 1em 2em;
+}
