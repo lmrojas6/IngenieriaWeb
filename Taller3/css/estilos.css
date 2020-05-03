@@ -183,3 +183,20 @@ section.galeriaPrinicpal{
     height: 500px;
 }
 
+{aside.sponsor{
+    text-align: center;
+    background: #ffffff;
+}
+
+section.sponsorItem{
+    padding: 2em 1em;
+    width: 20%;
+    display: inline-block;
+    background-color: #0b361f;
+    text-align: justify;
+}
+
+section.sponsorItem{
+    background: #ffffff;
+    padding: 20px;
+}
